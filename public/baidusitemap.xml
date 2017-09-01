@@ -76,6 +76,28 @@
 
     
   <url>
+    <loc>http://yoursite.com/2017/02/06/linux-clean/</loc>
+    <lastmod>2017-02-05T10:04:44.000Z</lastmod>
+    <data>
+        <display>
+        <title>ubuntu 清理命令</title>
+        <pubTime>2017-02-06T01:25:04.000Z</pubTime>
+        
+        <tag>linux</tag>
+         
+        <tag>ubuntu</tag>
+         
+         
+           
+             
+              <breadCrumb title="linux" url="http://yoursite.com/categories/linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2017/02/03/RxJava%E4%B8%8ERetrofit%E7%BB%93%E5%90%88%E7%9A%84%E5%AE%9E%E8%B7%B5/</loc>
     <lastmod>2017-02-05T10:04:44.000Z</lastmod>
     <data>
@@ -94,28 +116,6 @@
           
              
               <breadCrumb title="Retrofit" url="http://yoursite.com/categories/RxJava/Retrofit/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/02/06/linux-clean/</loc>
-    <lastmod>2017-02-05T10:04:44.000Z</lastmod>
-    <data>
-        <display>
-        <title>ubuntu 清理命令</title>
-        <pubTime>2017-02-06T01:25:04.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-        <tag>ubuntu</tag>
-         
-         
-           
-             
-              <breadCrumb title="linux" url="http://yoursite.com/categories/linux/"/>
           
         </display>
     </data>
